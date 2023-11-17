@@ -2,6 +2,7 @@
 
 ![Part 2 Final - STAT 451](https://github.com/shivenarya5/NYPD-Data/assets/140025907/77409d9e-179b-4f43-bd2d-3f83dd110740)
 
+Dataset: [nypd-shootings.csv](https://github.com/shivenarya5/NYPD-Data/files/13386422/nypd-shootings.csv)
 
 My project aims to analyze the NYPD shooting crime dataset to explore how crime intensity has evolved over the years in New York. 
 This is a valuable endeavor, as understanding crime trends can inform policy-making and community safety initiatives.

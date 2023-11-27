@@ -4,6 +4,8 @@
 
 Dataset: [nypd-shootings.csv](https://github.com/shivenarya5/NYPD-Data/files/13386422/nypd-shootings.csv)
 
+Dataset derived from (https://data.cityofnewyork.us/Social-Services/NYPD/fjn5-bxwg). Downloaded dataset then trimmed it to only include shooting incidents.
+
 My project aims to analyze the NYPD shooting crime dataset to explore how crime intensity has evolved over the years in New York. 
 This is a valuable endeavor, as understanding crime trends can inform policy-making and community safety initiatives.
 

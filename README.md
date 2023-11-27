@@ -29,7 +29,7 @@ The visualization clearly communicates the dynamic nature of crime incidents in 
 
 Why This Graph: The heat map effectively illustrates trends and patterns over time, highlighting variations in the intensity of shootings across different months and years. It's particularly useful for identifying seasonal or annual trends in the data.
 
-Interpretations and Insights from the Heat Map:
+Interpretations and Insights from the Heat Map
 
 Seasonal Variations: The heat map might show certain months with consistently higher shooting incidents across multiple years. For instance, if summer months like June, July, and August have higher numbers compared to other months, it could suggest a seasonal pattern. This could be due to factors like increased outdoor activities during warmer weather, leading to more interactions and potential conflicts.
 

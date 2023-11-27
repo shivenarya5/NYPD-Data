@@ -26,5 +26,22 @@ The graph illustrates a fluctuating trend, with a noticeable peak in 2006 follow
 A significant surge is observed in 2020, which could be correlated with external factors (e.g., socio-economic changes, policy shifts). The continuation of this upward trend into 2021 is particularly noteworthy.
 The visualization clearly communicates the dynamic nature of crime incidents in New York City over the years, providing a visual foundation for more in-depth analysis.
 
+[nypd_shootings_heatmap.pdf](https://github.com/shivenarya5/NYPD-Data/files/13481436/nypd_shootings_heatmap.pdf)
 
+Why This Graph: The heat map effectively illustrates trends and patterns over time, highlighting variations in the intensity of shootings across different months and years. It's particularly useful for identifying seasonal or annual trends in the data.
+
+Interpretations and Insights from the Heat Map:
+Seasonal Variations: The heat map might show certain months with consistently higher shooting incidents across multiple years. For instance, if summer months like June, July, and August have higher numbers compared to other months, it could suggest a seasonal pattern. This could be due to factors like increased outdoor activities during warmer weather, leading to more interactions and potential conflicts.
+
+Yearly Trends: The heat map could reveal trends over the years, such as an increase or decrease in shooting incidents. A steady increase over several years might indicate a growing problem, necessitating more robust crime prevention strategies. Conversely, a decline could signify effective law enforcement or community intervention programs.
+
+[nypd_shootings_hourly_barchart.pdf](https://github.com/shivenarya5/NYPD-Data/files/13481439/nypd_shootings_hourly_barchart.pdf)
+
+Why This Graph: The bar chart provides a clear and straightforward way to compare the frequency of incidents at different hours. It's ideal for highlighting the times when shootings are most and least frequent.
+
+Interpretations and Insights from the Bar Chart
+
+Daily Rhythms: If there is a noticeable peak in shootings during certain hours, such as late nights or early mornings, this could indicate times when law enforcement needs to be more vigilant. A high frequency of incidents during these hours might suggest a need for increased night patrols or community programs targeting nightlife areas.
+
+Comparative Analysis: By comparing the frequency of shootings across different hours, we can identify not just peak hours, but also relatively safer hours. For instance, if early morning hours (like 4 AM to 7 AM) have significantly fewer incidents, this could indicate periods of lower risk.
 

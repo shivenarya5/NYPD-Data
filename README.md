@@ -11,8 +11,7 @@ Importance of the Question
 
 Understanding the trend of shooting incidents over time is crucial for informing public safety strategies, law enforcement resource allocation, and community engagement initiatives. It also prompts further investigation into the underlying causes of these trends.
 
-
-![Part 2 Final - STAT 451](https://github.com/shivenarya5/NYPD-Data/assets/140025907/77409d9e-179b-4f43-bd2d-3f83dd110740)
+[nypd_shootings_yearly_linegraph.pdf](https://github.com/shivenarya5/NYPD-Data/files/13481463/nypd_shootings_yearly_linegraph.pdf)
 
 Analysis of the Visualization
 
